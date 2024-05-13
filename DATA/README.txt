@@ -1,0 +1,1 @@
+for simulation `sim_data.csv` is used which is same as `Alz_training_data_V6.csv`
